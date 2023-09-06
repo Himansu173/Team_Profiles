@@ -38,7 +38,7 @@ async function gyana(){
     <a href="https://instagram.com/gyana_0?utm_source=qr&igshid=OGU0MmVlOWVjOQ%3D%3D " target="blank"><img src="insta.png" alt="linkedin"></a>
     <a href="https://www.linkedin.com/in/gyana-ranjan-jena-53013b267" target="blank"><img src="linkedin.png" alt="linkedin"></a>
     <a href="https://github.com/gyana-jena" target="blank"><img src="github.png" alt="linkedin"></a>
-    <a href="#" target="blank"><img src="facebook.png" alt="linkedin"></a>`;
+    <a href=""><img src="facebook.png" alt="linkedin"></a>`;
     show.style.cssText=`transition: 0.35s ease-in-out;`;
 }
 
@@ -115,9 +115,9 @@ async function banty(){
     document.getElementById('name').innerText='KIRTINATH SAHOO';
     document.getElementById('tag').innerText='THE ALL-ROUNDER';
     document.getElementById('links').innerHTML=`
-    <a href=""><img src="insta.png" alt="linkedin"></a>
-    <a href=""><img src="linkedin.png" alt="linkedin"></a>
-    <a href=""><img src="github.png" alt="linkedin"></a>
+    <a href="https://instagram.com/gulshan__the__kingstarz7?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="blank"><img src="insta.png" alt="linkedin"></a>
+    <a href="https://www.linkedin.com/in/kirttinath-sahoo-7829181b1" target="blank"><img src="linkedin.png" alt="linkedin"></a>
+    <a href="https://github.com/Kirttinath-Sahoo" target="blank"><img src="github.png" alt="linkedin"></a>
     <a href=""><img src="facebook.png" alt="linkedin"></a>`;
     show.style.cssText=`transition: 0.35s ease-in-out;`;
 }
@@ -155,10 +155,10 @@ async function satya(){
     document.getElementById('name').innerText='SATYA S DAS';
     document.getElementById('tag').innerText='THE CINEPHILE';
     document.getElementById('links').innerHTML=`
-    <a href=""><img src="insta.png" alt="linkedin"></a>
-    <a href=""><img src="linkedin.png" alt="linkedin"></a>
-    <a href=""><img src="github.png" alt="linkedin"></a>
-    <a href=""><img src="facebook.png" alt="linkedin"></a>`;
+    <a href="https://instagram.com/satya_swarup_dash?utm_source=qr&igshid=OGU0MmVlOWVjOQ==" target="blank"><img src="insta.png" alt="linkedin"></a>
+    <a href="https://www.linkedin.com/in/satya-swarup-dash-760ab1275" target="blank"><img src="linkedin.png" alt="linkedin"></a>
+    <a href="https://github.com/SatyaswarupDash" target="blank"><img src="github.png" alt="linkedin"></a>
+    <a href="https://www.facebook.com/satyaswarup.dash.98434?mibextid=nW3QTL" target='blank'><img src="facebook.png" alt="linkedin"></a>`;
     show.style.cssText=`transition: 0.35s ease-in-out;`;
 }
 
