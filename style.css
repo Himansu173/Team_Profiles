@@ -210,6 +210,7 @@ body{
     justify-content: center;
     align-items: center;
     overflow: hidden;
+    -webkit-tap-highlight-color: transparent;
     transition: 0.2s;
 }
 
@@ -271,10 +272,11 @@ body{
 
 @media only screen and (min-width : 480px) {
     .wrapper {
-       height: 65vw;
-       width: 65vw;
-    }
-    .imgs{
-        -webkit-tap-highlight-color: transparent
+       height: 85vw;
+       width: 85vw;
+        positions: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
     }
 }
