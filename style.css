@@ -272,11 +272,11 @@ body{
 
 @media only screen and (min-width : 480px) {
     .wrapper {
-       height: 85vw;
-       width: 85vw;
-        positions: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%,-50%);
+       height: 65vw;
+       width: 65vw;
+       positions: absolute;
+       top: 50%;
+       left: 50%;
+       transform: translate(-50%,-50%);
     }
 }
