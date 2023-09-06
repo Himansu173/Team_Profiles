@@ -268,3 +268,13 @@ body{
     top: 4.4%;
     left: 10.6%;
 }
+
+@media screen and (max-width: 420px) {
+    .wrapper {
+       height: 85vw;
+       width: 85vw;
+    }
+    .imgs{
+        -webkit-tap-highlight-color: transparent
+    }
+}
