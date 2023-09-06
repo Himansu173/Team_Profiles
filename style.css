@@ -272,8 +272,8 @@ body{
 
 @media only screen and (min-width : 480px) {
     .wrapper {
-       height: 65vw;
-       width: 65vw;
+       height: 100vw;
+       width: 100vw;
        positions: absolute;
        top: 50%;
        left: 50%;
