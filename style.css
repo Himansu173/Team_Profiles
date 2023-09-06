@@ -271,8 +271,8 @@ body{
 
 @media only screen and (min-width : 480px) {
     .wrapper {
-       height: 85vw;
-       width: 85vw;
+       height: 75vw;
+       width: 75vw;
     }
     .imgs{
         -webkit-tap-highlight-color: transparent
