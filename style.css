@@ -269,7 +269,7 @@ body{
     left: 10.6%;
 }
 
-@media screen and (max-width: 420px) {
+@media only screen and (min-width : 480px) {
     .wrapper {
        height: 85vw;
        width: 85vw;
