@@ -270,7 +270,7 @@ body{
     left: 10.6%;
 }
 
-@media only screen and (min-width : 480px) {
+/* @media only screen and (min-width : 480px) {
     .wrapper {
        height: 50rem;
        width: 50rem;
@@ -279,4 +279,4 @@ body{
        left: 50%;
        transform: translate(-50%,-50%);
     }
-}
+}*/
