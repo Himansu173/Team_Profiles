@@ -13,7 +13,7 @@ async function himansu(){
     await sleep(350);
     document.getElementById('photo').innerHTML=`<img src="himansu.jpg" alt="img">`;
     document.getElementById('name').innerText='HIMANSU S LENKA';
-    document.getElementById('tag').innerText='THE PROGRAMMER';
+    document.getElementById('tag').innerText='THE TECHIE';
     document.getElementById('links').innerHTML=`
     <a href="https://www.instagram.com/himansu__173/" target="blank"><img src="insta.png" alt="linkedin"></a>
     <a href="https://www.linkedin.com/in/himansu-sekhar-lenka-704333263" target="blank"><img src="linkedin.png" alt="linkedin"></a>
